@@ -1,4 +1,4 @@
-WebJar for ng-file-upload
+WebJar for v-accordion
 
 More info: http://webjars.org
 
